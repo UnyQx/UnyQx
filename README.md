@@ -2,13 +2,9 @@
 ![Header](https://your-image-link.com/banner.png)
 
 
-<style>
-  h1{
-   font-size: 100px 
-  }
-</style>
 
-<h1 align="center">Hi there 👋, I'm UnyQx</h1>
+
+<h1 style="h1{font-size: 200px;}" align="center">Hi there 👋, I'm UnyQx</h1>
 <h3 align="center">Aspiring Game Developer | Physics Enthusiast | Code Explorer</h3>
 
 <!-- Badges -->
