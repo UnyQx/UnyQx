@@ -1,7 +1,14 @@
 <!-- Header Banner (You can generate or design a banner using a tool like Canva or use GitHub Gist) -->
 ![Header](https://your-image-link.com/banner.png)
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+
+<style>
+  h1{
+   font-size: 100px 
+  }
+</style>
+
+<h1 align="center">Hi there 👋, I'm UnyQx</h1>
 <h3 align="center">Aspiring Game Developer | Physics Enthusiast | Code Explorer</h3>
 
 <!-- Badges -->
